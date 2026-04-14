@@ -1,8 +1,9 @@
-## I've moved to Codeberg! 👋
+# I've moved to Codeberg! 👋
 
-My repositories and active development were moved to [Codeberg](https://codeberg.org/luisporangaba)
+My repositories and active development were moved to [Codeberg](https://codeberg.org/luisporangaba).
 
-## Where to find me 💬
+# Where to find me 💬
 
-Website: luisporangaba.com
-Codeberg: codeberg.org/luisporangaba
+- Website: https://luisporangaba.com
+  
+- Codeberg: https://codeberg.org/luisporangaba
